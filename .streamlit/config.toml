@@ -1,0 +1,9 @@
+[ui]
+hideTopBar=true
+
+[theme]
+base="dark"
+
+[global]
+disableWidgetStateDuplicationWarning = false
+showWarningOnDirectExecution = true
